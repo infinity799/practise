@@ -3,6 +3,10 @@ Hello !!
 This is the only repo for get motivated for the git and learning
 its all the different ways to get familiar with the tracking system 
 
+<<<<<<< HEAD
 
 blaaa ccc blaa4bla bla  
 
+=======
+blaaa blaa 
+>>>>>>> a6e67a13067cee8bffbef8b3a4ff4dbf6d9725a0
